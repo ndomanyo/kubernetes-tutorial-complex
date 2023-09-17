@@ -1,0 +1,3 @@
+# we do not need an nginx because k8 will use its own clusterip type
+# we add k8 directory for all k8-related config files
+
